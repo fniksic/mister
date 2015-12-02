@@ -1,2 +1,2 @@
 __author__ = 'fniksic'
-__all__ = ['ast', 'builder', 'data', 'lexer', 'parser']
+__all__ = ['ast', 'builder', 'data', 'lexer', 'parser', 'util']
